@@ -1,1 +1,11 @@
 /* Add CSS Styling */
+.one,
+.three { background-color: #ffcccc;
+    font-family: Verdana, "DejaVu Sans", sans-serif;}
+
+#tow{color: #0000b3;font-size: 36px;}
+
+
+.three{font-size: 24px;}
+
+#fourth{background-color: #99ff99;font-size: 24px;font-weight: bold;}

@@ -4,6 +4,7 @@ body {
 }
 
 .card {
+  
   width: 400px;
   background: #fff;
   margin: 16px auto;
@@ -11,17 +12,28 @@ body {
 
 .title {
   background: #e3f4ff;
+  margin: 10PX;
+  padding:10px ;
 }
 
 .content {
   background: #e3f4ff;
+  padding: 10px;
+  margin: 10px;
 }
 
 .button-container {
+  text-align: center;
   background: #e3f4ff;
+  padding: 10px;
+  margin: 10px;
 }
 
+
 button {
+  display: block;
   background: white;
   border: 1px solid #eee;
+  margin: auto;
+  
 }
