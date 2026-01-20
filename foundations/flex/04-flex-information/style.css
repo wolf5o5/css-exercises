@@ -10,6 +10,9 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin: 32px;
+  display: flex;
+  justify-content: center;
 }
 
 /* do not edit this footer */
@@ -23,4 +26,56 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+
+.big {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  
+}
+
+.one{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin:52px;
+  width: 10%;
+  text-align: center;
+
+}
+
+.tow{
+display: flex;
+  flex-direction: column;
+  align-items: center;
+ margin:52px;
+   width: 10%;
+   text-align: center;
+
+}
+
+.three{
+display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin:52px;
+   width: 10%;
+   text-align: center;
+
+}
+
+.four {
+display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin:52px;
+     width: 10%;
+     text-align: center;
+
+
+
 }
